@@ -2,7 +2,7 @@
 Can my cable support USB 2.0/3.0/3.1/3.2, power delivery? Is a wire broken?
 First and only digital cable tester for USB-C to USB-C cables | information on data speed, charging power, cable health and many more
 
-<img src='https://github.com/petl/BLE_caberQU/blob/main/photos/BLE_caberQU_frontal-1.png' width='100%'>
+[<img src='https://github.com/petl/BLE_caberQU/blob/main/photos/BLE_caberQU_frontal-1.png' width='100%'>](https://ble.caberqu.com)
 
 Website: https://ble.caberqu.com
 
