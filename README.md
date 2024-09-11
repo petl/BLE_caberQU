@@ -17,15 +17,18 @@ But the BLE caberQU takes things a step further with its LCD and integrated Blue
 
 
 The BLE caberQU provides valuable insights through its intuitive interface:
+
     • First Screen: Overview
         ◦ Data Speed: Displays the maximum speed the cable can support, limited by physical pin connections or marker specifications.
         ◦ Charging Power: Calculates the maximum charging power based on cable resistance and specifications.
         ◦ Cable Health: Assesses cable integrity by analysing resistance and pin connections, alerting you to any shorts or issues.
+        
     • Second Screen: Specs
         ◦ USB Data Versions: Indicates available USB standards like USB 2.0, USB 3.0, USB 4, and others.
         ◦ Maximum Voltage: Shows the highest voltage the cable can handle, from the default 5V up to 48V.
         ◦ Amperage: Displays the maximum current, influenced by cable resistance and eMarker data.
         ◦ USB Connector Pins: Visual graphic representing the number of connected pins out of the 24 available, helping you understand the cable's potential.
+        
     • Third Screen: Details
         ◦ It provides all cable parameters in text form, including eMarker data, BLE caberQU hardware and software versions, and its unique ID (UID).
 
