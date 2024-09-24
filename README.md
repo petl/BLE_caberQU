@@ -1,6 +1,6 @@
 # BLE caberQU - USB-C to USB-C cable tester
 
-## LIVE ON KICKSTARTER RIGHT NOW: https://ble.caberqu.com
+## CROWDFUNDING IS LIVE RIGHT NOW: [KICKSTARTER](https://www.kickstarter.com/projects/electr/ble-caberqu-a-digital-usb-c-to-usb-c-cable-tester?ref=45mpnm)
 
 
 Can my cable support USB 2.0/3.0/3.1/3.2, power delivery? Is a wire broken?
