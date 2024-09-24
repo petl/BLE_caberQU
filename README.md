@@ -1,4 +1,8 @@
 # BLE caberQU - USB-C to USB-C cable tester
+
+## LIVE ON KICKSTARTER RIGHT NOW: https://ble.caberqu.com
+
+
 Can my cable support USB 2.0/3.0/3.1/3.2, power delivery? Is a wire broken?
 First and only digital cable tester for USB-C to USB-C cables | information on data speed, charging power, cable health and many more
 
